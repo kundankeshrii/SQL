@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/kundankeshrii/SQL/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/kundankeshrii/SQL/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kundankeshrii/SQL/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sorting
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/kundankeshrii/SQL/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/kundankeshrii/SQL/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
