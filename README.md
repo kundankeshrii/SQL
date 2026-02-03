@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/kundankeshrii/SQL/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kundankeshrii/SQL/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kundankeshrii/SQL/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3637-trionic-array-i](https://github.com/kundankeshrii/SQL/tree/master/3637-trionic-array-i) |
 ## Sorting
 |  |
 | ------- |
