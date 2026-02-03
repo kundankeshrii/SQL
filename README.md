@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kundankeshrii/SQL/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/kundankeshrii/SQL/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/kundankeshrii/SQL/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kundankeshrii/SQL/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kundankeshrii/SQL/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/kundankeshrii/SQL/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/kundankeshrii/SQL/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kundankeshrii/SQL/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kundankeshrii/SQL/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kundankeshrii/SQL/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Greedy
+|  |
+| ------- |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/kundankeshrii/SQL/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 <!---LeetCode Topics End-->
